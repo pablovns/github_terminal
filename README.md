@@ -10,7 +10,7 @@
   
 <br>  
 
-- Preparas as mudanças feitas nos arquivos (+ do VS Code):  
+- Prepare as mudanças feitas nos arquivos (+ do VS Code):  
     - Caso você queira adicionar todos os arquivos do diretório atual no terminal:
         - `git add .`
     - Caso você queira adicionar arquivos individualmente: 
@@ -21,12 +21,12 @@
   
 <br>  
 
-- Ver quais mudanças estão preparadas (verde = arquivo adicionado):  
+- Veja quais mudanças estão preparadas (verde = arquivo adicionado):  
     - `git status`
   
 <br>  
 
-- Dar commit nas mudanças (commit para o Git, não para o GitHub):  
+- Dê commit nas mudanças (commit para o Git, não para o GitHub):  
     - `git commit -m 'mensagem'`  
 
     Exemplo:  
@@ -34,10 +34,10 @@
   
 <br>  
 
-- Selecionar a branch (ramificação) main (principal):
+- Selecione a branch (ramificação) main (principal):
     - `git branch -M main`
 
-- Dar push (enviar para o GitHub) no que foi dado commit:  
+- Dê push (enviar para o GitHub) no que foi dado commit:  
     - `git push -u origin main`  
 
 <br>
