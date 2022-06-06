@@ -10,6 +10,10 @@
   
 <br>  
 
+- Agora faça as modificações desejadas nos arquivos.  
+
+<br>  
+
 - Prepare as mudanças feitas nos arquivos (+ do VS Code):  
     - Caso você queira adicionar todos os arquivos do diretório atual no terminal:
         - `git add .`
